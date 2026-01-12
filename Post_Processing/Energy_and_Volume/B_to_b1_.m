@@ -1,0 +1,15 @@
+b1_0 = B(1,Zeitschritt+1);
+b1_1 = B(2,Zeitschritt+1);
+b1_2 = B(3,Zeitschritt+1);
+b1_3 = B(4,Zeitschritt+1);
+b1_4 = B(5,Zeitschritt+1);
+b1_5 = B(6,Zeitschritt+1);
+b1_6 = B(7,Zeitschritt+1);
+b1_7 = B(8,Zeitschritt+1);
+b1_8 = B(9,Zeitschritt+1);
+b1_9 = B(10,Zeitschritt+1);
+b1_10= B(11,Zeitschritt+1);
+b1_11= B(12,Zeitschritt+1);
+b1_12= B(13,Zeitschritt+1);
+b1_13= B(14,Zeitschritt+1);
+b1_14= B(15,Zeitschritt+1);
