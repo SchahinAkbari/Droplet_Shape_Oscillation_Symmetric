@@ -42,18 +42,7 @@ Any use or distribution must clearly state:
 Author: Schahin Akbari (FDY)
 Institution: Technische Universität Darmstadt (TU Darmstadt)
 
-Distribution without proper attribution is not permitted.
-
-See:
-
-The files in this repository are related to the original data used here:
-
-Asymmetric droplet oscillations:
-https://tudatalib.ulb.tu-darmstadt.de/items/5776c2b3-b3e5-4eac-ae5e-7f49d0cf42ca
-
-Symmetric droplet oscillations:
-https://tudatalib.ulb.tu-darmstadt.de/items/99a2a42e-1841-4865-be6c-d591d30b5007
-
+Distribution without proper attribution is not permitted!
 ------------------------------
 CONTACT AND ATTRIBUTION
 
