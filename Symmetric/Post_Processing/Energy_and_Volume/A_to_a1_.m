@@ -1,0 +1,15 @@
+a1_0 = A(1,Zeitschritt+1);
+a1_1 = A(2,Zeitschritt+1);
+a1_2 = A(3,Zeitschritt+1);
+a1_3 = A(4,Zeitschritt+1);
+a1_4 = A(5,Zeitschritt+1);
+a1_5 = A(6,Zeitschritt+1);
+a1_6 = A(7,Zeitschritt+1);
+a1_7 = A(8,Zeitschritt+1);
+a1_8 = A(9,Zeitschritt+1);
+a1_9 = A(10,Zeitschritt+1);
+a1_10= A(11,Zeitschritt+1);
+a1_11= A(12,Zeitschritt+1);
+a1_12= A(13,Zeitschritt+1);
+a1_13= A(14,Zeitschritt+1);
+a1_14= A(15,Zeitschritt+1);

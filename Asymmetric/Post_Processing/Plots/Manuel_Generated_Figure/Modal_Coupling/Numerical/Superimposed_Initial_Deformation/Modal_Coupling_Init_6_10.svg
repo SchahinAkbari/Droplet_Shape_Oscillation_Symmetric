@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="158.89mm"
+   height="78.37mm"
+   version="1.1"
+   viewBox="0 0 158.89 78.37"
+   id="svg60"
+   sodipodi:docname="Modal_Coupling_Init_6_10.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview60"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3189548"
+     inkscape:cx="195.98852"
+     inkscape:cy="29.947956"
+     inkscape:window-width="3440"
+     inkscape:window-height="1361"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g60" />
+  <defs
+     id="defs3">
+    <marker
+       id="marker168"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="rotate(180 .125 0)"
+         d="m3-3-3 3 3 3"
+         fill="none"
+         stroke="context-stroke"
+         id="path1" />
+    </marker>
+    <marker
+       id="marker166"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="rotate(180 .125 0)"
+         d="m3-3-3 3 3 3"
+         fill="none"
+         stroke="context-stroke"
+         id="path2" />
+    </marker>
+    <marker
+       id="marker164"
+       overflow="visible"
+       markerHeight="1"
+       markerWidth="1"
+       orient="auto-start-reverse"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 1 1">
+      <path
+         transform="rotate(180 .125 0)"
+         d="m3-3-3 3 3 3"
+         fill="none"
+         stroke="context-stroke"
+         id="path3" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(-26.243 -20.162)"
+     id="g60">
+    <g
+       fill="#cccccc"
+       stroke-width="0.20808"
+       id="g22"
+       transform="matrix(0.73298,0,0,0.68627,37.802,15.842)">
+      <circle
+         transform="scale(-1,1)"
+         cx="-120"
+         cy="28"
+         r="6"
+         id="circle3" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-75"
+         cy="43"
+         r="6"
+         id="circle4" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-120"
+         cy="43"
+         r="6"
+         id="circle5" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-75"
+         cy="58"
+         r="6"
+         id="circle6" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-74.628998"
+         cy="73"
+         r="6"
+         id="circle7" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-120"
+         cy="58"
+         r="6"
+         id="circle8" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-150"
+         cy="58"
+         r="6"
+         id="circle9" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-45"
+         cy="73"
+         r="6"
+         id="circle10" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-120"
+         cy="73"
+         r="6"
+         id="circle11" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-150"
+         cy="73"
+         r="6"
+         id="circle12" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-45"
+         cy="88"
+         r="6"
+         id="circle13" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-75"
+         cy="88"
+         r="6"
+         id="circle14" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-75"
+         cy="103"
+         r="6"
+         id="circle15" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-120"
+         cy="88"
+         r="6"
+         id="circle16" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-150"
+         cy="88"
+         r="6"
+         id="circle17" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-180"
+         cy="88"
+         r="6"
+         id="circle18" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-45"
+         cy="103"
+         r="6"
+         id="circle19" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-120"
+         cy="103"
+         r="6"
+         id="circle20" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-150"
+         cy="103"
+         r="6"
+         id="circle21" />
+      <circle
+         transform="scale(-1,1)"
+         cx="-180"
+         cy="103"
+         r="6"
+         id="circle22" />
+    </g>
+    <rect
+       transform="matrix(0.72922136,-0.68427788,0.73074493,0.6826506,0,0)"
+       x="34.471012"
+       y="100.37151"
+       width="7.0282202"
+       height="7.0292525"
+       fill="#4c4cff"
+       stroke="#000000"
+       stroke-width="1.00111"
+       id="rect22"
+       style="stroke:none" />
+    <rect
+       transform="matrix(0.72922136,-0.68427788,0.73074493,0.6826506,0,0)"
+       x="13.230021"
+       y="94.779778"
+       width="3.9362152"
+       height="3.9367933"
+       fill="#4c4cff"
+       id="rect23"
+       style="stroke-width:0.710009" />
+    <rect
+       x="110.36702"
+       y="20.645889"
+       width="8.7957602"
+       height="8.23524"
+       fill="#5e5eed"
+       fill-opacity="0.60174"
+       stroke="#000000"
+       stroke-width="1.00003"
+       id="rect24"
+       style="stroke:none" />
+    <g
+       fill="#5f5fed"
+       fill-opacity="0.6"
+       id="g49"
+       transform="matrix(0.73298,0,0,0.68627,37.802,15.842)"
+       style="stroke:none">
+      <rect
+         x="99"
+         y="37"
+         width="12"
+         height="12"
+         stroke="#000000"
+         stroke-width="1.41"
+         id="rect25"
+         style="stroke:none" />
+      <rect
+         x="129"
+         y="37"
+         width="12"
+         height="12"
+         stroke-width="0.27989"
+         id="rect26"
+         style="stroke:none" />
+      <g
+         stroke-width="0.15675"
+         id="g37"
+         style="stroke:none">
+        <rect
+           x="86.639999"
+           y="54.639999"
+           width="6.7206998"
+           height="6.7206998"
+           id="rect27"
+           style="stroke:none" />
+        <rect
+           x="101.64"
+           y="54.639999"
+           width="6.7206998"
+           height="6.7206998"
+           id="rect28"
+           style="stroke:none" />
+        <rect
+           x="131.64"
+           y="54.639999"
+           width="6.7206998"
+           height="6.7206998"
+           id="rect29"
+           style="stroke:none" />
+        <rect
+           x="131.67999"
+           y="84.639999"
+           width="6.7206998"
+           height="6.7206998"
+           id="rect30"
+           style="stroke:none" />
+        <rect
+           x="161.64"
+           y="84.639999"
+           width="6.7206998"
+           height="6.7206998"
+           id="rect31"
+           style="stroke:none" />
+        <rect
+           x="101.64"
+           y="84.639999"
+           width="6.7206998"
+           height="6.7206998"
+           id="rect32"
+           style="stroke:none" />
+        <rect
+           x="86.639999"
+           y="84.639999"
+           width="6.7206998"
+           height="6.7206998"
+           id="rect33"
+           style="stroke:none" />
+        <rect
+           x="56.639"
+           y="84.639999"
+           width="6.7206998"
+           height="6.7206998"
+           id="rect34"
+           style="stroke:none" />
+        <rect
+           x="26.639999"
+           y="84.639999"
+           width="6.7206998"
+           height="6.7206998"
+           id="rect35"
+           style="stroke:none" />
+        <rect
+           x="86.426003"
+           y="24.639999"
+           width="6.7206998"
+           height="6.7206998"
+           id="rect36"
+           style="stroke:none" />
+        <rect
+           x="101.64"
+           y="24.639999"
+           width="6.7206998"
+           height="6.7206998"
+           id="rect37"
+           style="stroke:none" />
+      </g>
+      <g
+         stroke-width="0.27989"
+         id="g40"
+         style="stroke:none">
+        <rect
+           x="99"
+           y="97"
+           width="12"
+           height="12"
+           id="rect38"
+           style="stroke:none" />
+        <rect
+           x="159"
+           y="97"
+           width="12"
+           height="12"
+           id="rect39"
+           style="stroke:none" />
+        <rect
+           x="189"
+           y="97.000999"
+           width="12"
+           height="12"
+           id="rect40"
+           style="stroke:none" />
+      </g>
+      <rect
+         x="159"
+         y="67"
+         width="12"
+         height="12"
+         stroke="#000000"
+         stroke-width="1.41"
+         id="rect41"
+         style="stroke:none" />
+      <g
+         stroke-width="0.27989"
+         id="g48"
+         style="stroke:none">
+        <rect
+           x="129.03999"
+           y="67"
+           width="12"
+           height="12"
+           id="rect42"
+           style="stroke:none" />
+        <rect
+           x="84"
+           y="67"
+           width="12"
+           height="12"
+           id="rect43"
+           style="stroke:none" />
+        <rect
+           x="54"
+           y="67"
+           width="12"
+           height="12"
+           id="rect44"
+           style="stroke:none" />
+        <rect
+           x="24.000999"
+           y="97.000999"
+           width="12"
+           height="12"
+           id="rect45"
+           style="stroke:none" />
+        <rect
+           x="54"
+           y="97.000999"
+           width="12"
+           height="12"
+           id="rect46"
+           style="stroke:none" />
+        <rect
+           x="84"
+           y="97.000999"
+           width="12"
+           height="12"
+           id="rect47"
+           style="stroke:none" />
+        <rect
+           x="128.96001"
+           y="97.000999"
+           width="12"
+           height="12"
+           id="rect48"
+           style="stroke:none" />
+      </g>
+      <rect
+         x="99"
+         y="67"
+         width="12"
+         height="12"
+         stroke="#000000"
+         stroke-width="1.41"
+         id="rect49"
+         style="stroke:none" />
+    </g>
+    <ellipse
+       transform="scale(-1,1)"
+       cx="-49.529678"
+       cy="86.527809"
+       fill="#cccccc"
+       stroke-width="0.147579"
+       id="circle49"
+       rx="4.3978801"
+       ry="4.11762" />
+    <text
+       x="103.35832"
+       y="97.758308"
+       style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
+       xml:space="preserve"
+       id="text50"><tspan
+         x="103.35832"
+         y="97.758308"
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="2.1167px"
+         stroke-width="0.26458"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan50">$m=0$</tspan></text>
+    <text
+       x="38.371807"
+       y="97.904167"
+       style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
+       xml:space="preserve"
+       id="text51"><tspan
+         x="38.371807"
+         y="97.904167"
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="2.1167px"
+         stroke-width="0.26458"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan51">$m=-6$</tspan></text>
+    <text
+       x="169.84613"
+       y="98.221298"
+       style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
+       xml:space="preserve"
+       id="text52"><tspan
+         x="169.84613"
+         y="98.221298"
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="2.1167px"
+         stroke-width="0.26458"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan52">$m=6$</tspan></text>
+    <text
+       x="26.199673"
+       y="27.686361"
+       style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
+       xml:space="preserve"
+       id="text53"><tspan
+         x="26.199673"
+         y="27.686361"
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="2.1167px"
+         stroke-width="0.26458"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan53">$\ell=0$</tspan></text>
+    <text
+       x="26.067453"
+       y="88.234276"
+       style="font-size:2.1167px;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.26458"
+       xml:space="preserve"
+       id="text54"><tspan
+         x="26.067453"
+         y="88.234276"
+         fill="#000000"
+         font-family="sans-serif"
+         font-size="2.1167px"
+         stroke-width="0.26458"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan54">$\ell=6$</tspan></text>
+    <path
+       d="m 32.502,33.299 0.13282,45.292"
+       marker-end="url(#marker164)"
+       stroke-width="0.33549"
+       id="path54"
+       style="fill:#c4b4b4;stroke:#919191" />
+    <path
+       d="M 99.831663,96.388 67.561666,96.26396"
+       marker-end="url(#marker166)"
+       stroke-width="0.31743"
+       id="path55"
+       style="fill:#c4b4b4;stroke:#919191" />
+    <path
+       d="m 127.70166,96.595 35.742,0.13414"
+       marker-end="url(#marker168)"
+       stroke-width="0.32411"
+       id="path56"
+       style="fill:#c4b4b4;stroke:#919191" />
+    <path
+       d="m 45.27715,60.904674 -1.594783,-4.410548 0.421185,-4.67116 3.701739,-2.879689 4.572472,-1.042869 3.882711,2.630799 2.404821,4.026643 -1.302237,4.505533 -3.086325,3.531349 -4.687564,0.153803 z"
+       id="path58"
+       style="fill-opacity:0;stroke:#ffffff;stroke-width:0.0634939" />
+  </g>
+</svg>
